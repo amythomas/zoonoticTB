@@ -1,1 +1,1 @@
-# zoonoticTB
+# Code to accompany the manuscript titled 'High Mycobacterium bovis exposure but low IGRA positivity in UK farm workers' by Amy Thomas, Alice Halliday, Genevieve Clapp, Ross Symonds, Noreen Hopewell-Kelly, Carmel McGrath, Lucy Wheeler, Anna Dacey, Nigel Noel, Andrea Turner, Isabel Oliver, James Wood, Ed Moran, Paul Virgo, James Tiller, Paul Upton, Andrew Mitchell, Anu Goenka and Ellen Brooks-Pollock. Published in Zoonoses and Public Health, 2024.
